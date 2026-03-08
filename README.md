@@ -1,4 +1,4 @@
-🩺 Diabetes Prediction using Support Vector Machine (SVM)
+🩺 # Diabetes Prediction using Support Vector Machine (SVM)
 📌 Project Overview
 
 This Machine Learning project predicts whether a patient is diabetic or non-diabetic based on medical diagnostic measurements.
