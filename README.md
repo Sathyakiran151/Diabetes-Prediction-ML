@@ -1,14 +1,27 @@
-🩺 Diabetes Prediction using SVM
+🩺 Diabetes Prediction using Support Vector Machine (SVM)
 📌 Project Overview
 
-This Machine Learning project predicts whether a patient is diabetic or non-diabetic using medical diagnostic data.
+This Machine Learning project predicts whether a patient is diabetic or non-diabetic based on medical diagnostic measurements.
+
 The model is built using the Support Vector Machine (SVM) algorithm and trained on the Pima Indians Diabetes Dataset.
 
-📊 Dataset
+The objective of this project is to demonstrate an end-to-end machine learning workflow, including:
 
-Total Records: 768
+Data preprocessing
 
-Features: 8 medical attributes
+Model training
+
+Model evaluation
+
+Building a predictive system
+
+📊 Dataset Information
+
+Dataset: Pima Indians Diabetes Dataset
+
+Number of Instances: 768
+
+Number of Features: 8 medical attributes
 
 Target Variable: Outcome
 
@@ -16,11 +29,25 @@ Target Variable: Outcome
 
 1 → Diabetic
 
-Features
+Features Used
 
-Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age
+Pregnancies
 
-⚙️ Technologies Used
+Glucose
+
+BloodPressure
+
+SkinThickness
+
+Insulin
+
+BMI
+
+DiabetesPedigreeFunction
+
+Age
+
+⚙️ Technologies & Libraries Used
 
 Python
 
@@ -30,7 +57,11 @@ Pandas
 
 Scikit-learn
 
-🧠 ML Workflow
+Matplotlib (optional for visualization)
+
+🧠 Machine Learning Workflow
+
+The following steps were followed to build the model:
 
 Data Loading
 
@@ -38,41 +69,34 @@ Data Preprocessing
 
 Feature & Target Separation
 
-Data Standardization
+Data Standardization using StandardScaler
 
 Train-Test Split
 
 Model Training using SVM
 
-Model Evaluation
+Model Evaluation (Accuracy Score)
 
-Predictive System
+Building Predictive System
+
+🤖 Model Details
+
+Algorithm Used: Support Vector Machine (SVM)
+Kernel: Linear
+
+Why SVM?
+
+SVM was selected because:
+
+It performs well in high-dimensional spaces
+
+Effective for classification problems
+
+Works well with small-to-medium datasets
 
 📈 Model Performance
+Metric	Score
+Training Accuracy	~78%
+Testing Accuracy	~76%
 
-Training Accuracy: ~78%
-
-Testing Accuracy: ~76%
-
-🧪 Prediction Example
-
-Input:
-
-(6,148,72,35,0,33.6,0.627,50)
-
-Output:
-
-The person is Diabetic
-🚀 Future Improvements
-
-Hyperparameter tuning
-
-Try other ML models
-
-Build a Streamlit web app
-
-Deploy the model online
-
-👨‍💻 Author
-
-Sathya Kiran
+The model shows balanced performance without significant overfitting.
