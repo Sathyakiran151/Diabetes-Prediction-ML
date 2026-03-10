@@ -95,10 +95,10 @@ Why SVM?
 - Works well with small-to-medium datasets
 
 ## 📈 Model Performance
-''' 
+
 Metric	Score
 Training Accuracy	~78%
 Testing Accuracy	~76%
-'''
+
 
 - The model shows balanced performance without significant overfitting.
