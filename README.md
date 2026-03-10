@@ -61,23 +61,23 @@
 
 ## 🧠 Machine Learning Workflow
 
-The following steps were followed to build the model:
+## The following steps were followed to build the model:
 
-Data Loading
+- Data Loading
 
-Data Preprocessing
+- Data Preprocessing
 
-Feature & Target Separation
+- Feature & Target Separation
 
-Data Standardization using StandardScaler
+- Data Standardization using StandardScaler
 
-Train-Test Split
+- Train-Test Split
 
-Model Training using SVM
+- Model Training using SVM
 
-Model Evaluation (Accuracy Score)
+- Model Evaluation (Accuracy Score)
 
-Building Predictive System
+- Building Predictive System
 
 ## 🤖 Model Details
 
@@ -95,8 +95,10 @@ Why SVM?
 - Works well with small-to-medium datasets
 
 ## 📈 Model Performance
-Metric	Score
+''' 
+## Metric	Score
 Training Accuracy	~78%
 Testing Accuracy	~76%
+'''
 
 - The model shows balanced performance without significant overfitting.
