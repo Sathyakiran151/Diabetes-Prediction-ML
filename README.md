@@ -1,21 +1,21 @@
-🩺 # Diabetes Prediction using Support Vector Machine (SVM)
-📌 Project Overview
+## 🩺 Diabetes Prediction using Support Vector Machine (SVM)
+#📌 Project Overview
 
-This Machine Learning project predicts whether a patient is diabetic or non-diabetic based on medical diagnostic measurements.
+- This Machine Learning project predicts whether a patient is diabetic or non-diabetic based on medical diagnostic measurements.
 
-The model is built using the Support Vector Machine (SVM) algorithm and trained on the Pima Indians Diabetes Dataset.
+- The model is built using the Support Vector Machine (SVM) algorithm and trained on the Pima Indians Diabetes Dataset.
 
-The objective of this project is to demonstrate an end-to-end machine learning workflow, including:
+- The objective of this project is to demonstrate an end-to-end machine learning workflow, including:
 
-Data preprocessing
+- Data preprocessing
 
-Model training
+- Model training
 
-Model evaluation
+- Model evaluation
 
-Building a predictive system
+- Building a predictive system
 
-📊 Dataset Information
+##📊 Dataset Information
 
 Dataset: Pima Indians Diabetes Dataset
 
@@ -47,19 +47,19 @@ DiabetesPedigreeFunction
 
 Age
 
-⚙️ Technologies & Libraries Used
+##⚙️ Technologies & Libraries Used
 
-Python
+- Python
 
-NumPy
+- NumPy
 
-Pandas
+- Pandas
 
-Scikit-learn
+- Scikit-learn
 
-Matplotlib (optional for visualization)
+- Matplotlib (optional for visualization)
 
-🧠 Machine Learning Workflow
+##🧠 Machine Learning Workflow
 
 The following steps were followed to build the model:
 
