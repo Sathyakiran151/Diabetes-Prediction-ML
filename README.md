@@ -17,37 +17,37 @@
 
 ## 📊 Dataset Information
 
-Dataset: Pima Indians Diabetes Dataset
+- Dataset: Pima Indians Diabetes Dataset
 
-Number of Instances: 768
+- Number of Instances: 768
 
-Number of Features: 8 medical attributes
+- Number of Features: 8 medical attributes
 
-Target Variable: Outcome
+- Target Variable: Outcome
 
-0 → Non-Diabetic
+- 0 → Non-Diabetic
 
-1 → Diabetic
+- 1 → Diabetic
 
-Features Used
+- Features Used
 
-Pregnancies
+- Pregnancies
 
-Glucose
+- Glucose
 
-BloodPressure
+- BloodPressure
 
-SkinThickness
+- SkinThickness
 
-Insulin
+- Insulin
 
-BMI
+- BMI
 
-DiabetesPedigreeFunction
+- DiabetesPedigreeFunction
 
-Age
+- Age
 
-##⚙️ Technologies & Libraries Used
+## ⚙️ Technologies & Libraries Used
 
 - Python
 
