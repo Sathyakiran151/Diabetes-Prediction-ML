@@ -96,7 +96,7 @@ Why SVM?
 
 ## 📈 Model Performance
 ''' 
-## Metric	Score
+Metric	Score
 Training Accuracy	~78%
 Testing Accuracy	~76%
 '''
